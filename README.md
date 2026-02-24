@@ -89,10 +89,3 @@
 ✅ النموذج المحسن يفسر حوالي **81%** من التباين في السعر، مما يشير إلى أداء جيد.
 
 ---
-
-## ⚙️ كيفية التشغيل
-
-1. **استنساخ المستودع**
-   ```bash
-   git clone https://github.com/your-username/House-Price-Prediction-Project.git
-   cd House-Price-Prediction-Project
